@@ -105,7 +105,8 @@ Construct a JavaScript program to implement a simple calculator.
 
 ## OUTPUT:
 ![](Screenshot%20(42).png)
-## HTML VALIDATOR:
+
 
 ## RESULT:
+ Program has run successfully
 
